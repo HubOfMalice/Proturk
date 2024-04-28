@@ -1,0 +1,90 @@
+
+*{
+margin:0px;
+padding:0px;
+box-sizing: border-box;
+font-family: sans-serif;
+
+body {
+    background-image: url(wp9553510.jpg);
+    background-repeat: repeat;
+    background-size:contain ;
+    backdrop-filter: blur(5px);
+    background-position: center;
+}
+
+
+ 
+.header {
+position: fixed;
+top: 0;
+left: 0;
+height: 1.4%;
+width: 100%;
+padding: 20px 100px;
+background: rgba(255, 255, 255, .1);
+
+}
+title, h1{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Sylfaen";
+}
+
+
+header {
+color: #ffffff;
+text-decoration: none;
+cursor: default;
+backdrop-filter: blur(5px);
+border-bottom: 2px solid rgba(255, 255, 255, .2);
+}
+
+.header::before {
+    content: ' ' ;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    
+}
+
+
+
+
+h2,p{
+    color:#fff
+
+}
+
+
+}
+
+ h2, p{
+    font-family: arial ;
+    
+}
+
+#memel.png 
+
+title, h1 {
+
+
+    text-align: center;
+}
+
+h2 {
+
+
+    text-align: center;
+}
+
+p {
+text-align:center;
+
+}
+
+
+
